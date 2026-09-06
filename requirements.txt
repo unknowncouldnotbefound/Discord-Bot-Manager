@@ -1,0 +1,8 @@
+# Required
+customtkinter
+
+# Optional — only needed for the "minimize to system tray" feature.
+# Without these, the app just minimizes to the taskbar instead, everything
+# else still works fine.
+pystray
+pillow
